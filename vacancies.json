@@ -1,0 +1,72 @@
+[
+    {
+        "vacancy_title": "Python / SQL / Back-end разработчик",
+        "city": "Санкт-Петербург",
+        "vacancy_salary": "от 100 000 до 100 000 руб. на руки",
+        "company_name": "Tesla Lasers",
+        "href": "https://spb.hh.ru/vacancy/79957029?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Python разработчик",
+        "city": "Москва",
+        "vacancy_salary": "от 100 000 руб. на руки",
+        "company_name": "Own Script",
+        "href": "https://spb.hh.ru/vacancy/79051528?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Программист Python",
+        "city": "Москва",
+        "vacancy_salary": "з/п не указана",
+        "company_name": "Гусарова Юлия Александровна",
+        "href": "https://spb.hh.ru/vacancy/78452335?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "TeamLead Python",
+        "city": "Москва",
+        "vacancy_salary": "з/п не указана",
+        "company_name": "ООО Витте Консалтинг",
+        "href": "https://spb.hh.ru/vacancy/80101758?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Программист Python",
+        "city": "Москва",
+        "vacancy_salary": "до 270 000 руб. на руки",
+        "company_name": "ООО АЙТИ.СПЕЙС",
+        "href": "https://spb.hh.ru/vacancy/77149775?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Middle Python developer",
+        "city": "Москва",
+        "vacancy_salary": "от 150 000 до 200 000 руб. на руки",
+        "company_name": "ООО Селфсек",
+        "href": "https://spb.hh.ru/vacancy/72687504?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Teamlead Python",
+        "city": "Москва",
+        "vacancy_salary": "з/п не указана",
+        "company_name": "Электронная торговая площадка Газпромбанка",
+        "href": "https://spb.hh.ru/vacancy/80092540?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Python разработчик",
+        "city": "Москва",
+        "vacancy_salary": "з/п не указана",
+        "company_name": "idaproject",
+        "href": "https://spb.hh.ru/vacancy/79086858?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Python Web Developer",
+        "city": "Санкт-Петербург",
+        "vacancy_salary": "з/п не указана",
+        "company_name": "Lesta Games",
+        "href": "https://spb.hh.ru/vacancy/76129128?from=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy_title": "Главный разработчик Python",
+        "city": "Москва",
+        "vacancy_salary": "з/п не указана",
+        "company_name": "Ай-Теко (I-Teco)",
+        "href": "https://spb.hh.ru/vacancy/78421936?from=vacancy_search_list&query=python"
+    }
+]
