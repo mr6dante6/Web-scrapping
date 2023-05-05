@@ -1,8 +1,8 @@
+import time
+import json
 import requests
 from fake_headers import Headers
 from bs4 import BeautifulSoup
-import time
-import json
 
 HOST = 'https://spb.hh.ru/search/vacancy?text=python&area=1&area=2'
 
